@@ -2,6 +2,7 @@
 A little script for [CosmosMC](https://cosmosmc.org)
 
 There is a few dependencies NEEDED!
+Crate a virtual environment `python -m venv venv`
 Do `pip install -r requirements.txt`
 
 1. pytesseract
