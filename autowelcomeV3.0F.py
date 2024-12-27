@@ -7,12 +7,12 @@ import winsound
 import pyfiglet
 
 def print_startup_message():
-    # Generate ASCII art for "Marshy"
+    
     ascii_art = pyfiglet.figlet_format(" Made by Marshy!")
     print("\nStarting up...\n")
-    time.sleep(1)  # Simulate a small delay
+    time.sleep(1)  
     print(ascii_art)
-    time.sleep(1)  # Pause for effect
+    time.sleep(1)  
     print("Thanks for Downloading!\n")
 
 # Main script starts here
