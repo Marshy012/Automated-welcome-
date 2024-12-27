@@ -78,7 +78,7 @@ def send_welcome_message(username):
     
     # open chat and send message 
 
-    message = f"welcome to cosmos {username}! Hope you have a good time and feel free to ask any questions!"
+    message = f"Welcome to CosmosMC {username}! Hope you have a good time and feel free to ask any questions! Use /help to get started. :D"
     print(f"Sending message: {message}")  # Debug: Print the message
     pyautogui.press('t')  # Open chat by pressing T
     time.sleep(0.2)  # Small delay to ensure chat opens
