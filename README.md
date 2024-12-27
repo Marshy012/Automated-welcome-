@@ -1,13 +1,14 @@
 # Automated-welcome-
-A little script for cosmos
+A little script for [CosmosMC](https://cosmosmc.org)
 
 There is a few dependencies NEEDED!
+Do `pip install -r requirements.txt`
 
-1 pip install pytesseract
-2 pip install pyautogui
-3 pip install cv2
-4 pip install pyfiglet
-5 pip install datetine
+1. pytesseract
+2. pyautogui
+3. cv2
+4. pyfiglet
+5. datetine
 
 After all of these are done installing and such it should launch you can configure what text is sent and what the script is looking for and the detection area more is explained inside of the script!
 
