@@ -1,4 +1,0 @@
-pytesseract
-pyautogui
-opencv-python
-pyfiglet
